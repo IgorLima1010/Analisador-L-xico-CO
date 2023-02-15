@@ -1,1 +1,1 @@
-# Analisador-L-xico-CO
+# Analisador-Léxico-CO
